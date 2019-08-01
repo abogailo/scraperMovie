@@ -5,7 +5,7 @@
   "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
   <typeAliases>
-     <typeAlias type="com.abogailo.Scraper" alias="scraper"/>
+     <typeAlias type="com.abogailo.Scraper"   alias="scraper"/>
   </typeAliases>  
   <environments default="development">
     <environment id="development">
